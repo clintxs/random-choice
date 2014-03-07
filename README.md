@@ -1,12 +1,16 @@
 I kept finding myself writing one-off scripts to feed my indecision and make a random choice. I wrote this workflow to automate my indecision. ;)
 
+This is a workflow for the OS X app [Alfred 2]. You'll need a license for the powerpack to install it.
+
+[Alfred 2]: http://www.alfredapp.com/
+
 ![The workflow lets you ask for a yes/no response, flip a coin, choose a random number, choose from a list, or roll a die.](http://clintonstrong.com/i/d6beb6.png)
 
 **[Download](http://packal.org/workflow/random-choice)**
 
 Some of these keywords are duplicates of existing workflows, but I wanted to have all my RNGs in one workflow. Feel free to disable any keywords you don't want or need.
 
-Oh, and you don't have to worry about downloading a light or dark version of the workflow. The icons adjust automatically based on your theme, using [alfred-icons](https://github.com/clintxs/alfred-icons).
+Oh, and you don't have to worry about downloading a light or dark version of the workflow. The icons adjust automatically based on your theme as soon as you start using the workflow. See [alfred-icons](https://github.com/clintxs/alfred-icons) for more information about how this works.
 
 ## Usage
 
